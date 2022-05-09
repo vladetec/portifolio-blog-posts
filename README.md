@@ -21,6 +21,7 @@ make serve
 ## Links
 
 [Portifolio - Blog - Local](http://localhost:5000/)
+[Portifolio - Blog - WEB](https://vladetec.github.io/portifolio-blog-posts/templates/index.html)
 
 ### COMO FAZER DEPLOY NO HEROKU
 
